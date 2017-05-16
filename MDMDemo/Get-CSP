@@ -1,0 +1,4 @@
+
+$namespaceName = "root\cimv2\mdm\dmmap"
+
+Get-CimInstance -Namespace $namespaceName

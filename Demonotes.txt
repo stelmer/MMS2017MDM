@@ -1,0 +1,13 @@
+DemoNotes.txt
+
+Workspace Com id = 6021fd1c-c505-45f8-b2c6-d4b1a18c2976
+
+Win10Demo001
+
+•	The first baby steps a ConfigMgr admin can take start with Intune
+•	How to adopt Windows Update for Business while still using ConfigMgr for reporting
+•	How to use Configuration Service Providers (CSPs) in both Intune and ConfigMgr
+	Demo creating a policy in intune
+	Demo Creating a policy with a script
+
+•	Understand the gaps that exist today in modern device management-only scenarios, and strategies for removing them as blockers
