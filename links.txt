@@ -1,0 +1,23 @@
+https://blogs.technet.microsoft.com/enterprisemobility/2016/03/23/the-path-to-modernizing-windows-management/
+
+https://msdn.microsoft.com/library/windows/hardware/dn905224
+
+https://docs.microsoft.com/en-us/windows/configuration/provisioning-packages/provisioning-powershell
+
+Inune policies
+https://docs.microsoft.com/en-us/intune/deploy-use/windows-10-policy-settings-in-microsoft-intune#custom-uri-settings-for-windows-10-devices
+https://businessstore.microsoft.com/en-us/manage/settings/management-tools
+
+https://docs.microsoft.com/en-us/windows/configuration/provisioning-packages/provisioning-powershell
+
+Windows Update for Business
+https://blogs.msdn.microsoft.com/beanexpert/2015/11/15/windows-update-for-business-explained/
+https://docs.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wufb
+
+MDM fro GPO admins
+https://blogs.technet.microsoft.com/microscott/windows-10-mdm-for-the-group-policy-gurus/
+
+Assess the management needs in your environment. One size may not fit all your needs depending on people, their mobility, the devices, and the data they access.
+•Consider the requirements. With Windows 10, Configuration Manager and the Enterprise Mobility Suite, you have the flexibility to handle imaging, authentication, settings, and management tools for any scenario.
+•Take small steps. Moving towards modern device management doesn’t have to be an overnight transformation.
+•Optimize your existing investments. On the road from traditional on-premises management to modern cloud-based management, take advantage of the flexible, hybrid architecture of Configuration Manager and Intune. As additional capabilities become available in the cloud-identity/MDM model, Microsoft is committed to providing a clear path from traditional to modern management.
